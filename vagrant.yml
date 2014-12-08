@@ -1,0 +1,6 @@
+:nodes:
+  - :hostname: lp_linux
+    :box: 'box/centos_65'
+    :guest: :linux
+    :ip: 192.168.51.141
+    :server_role: "role::lp"
